@@ -1,0 +1,1 @@
+This is a simple project on web development, thanks to THE ODIN PROJECT for getting me through this. Its a fantastic journey.
